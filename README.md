@@ -2,7 +2,17 @@ Aplicación con React + Vite
 
 Esta aplicación fue desarrollada con React + Vite y tiene como funcionalidad principal un contador con dos botones: uno para incrementar y otro para decrementar el valor mostrado. El botón de decremento se creó duplicando el componente original del incremento y modificando la lógica de actualización de estado de +1 a -1. Además, se personalizó la interfaz cambiando el logo predeterminado de React y el favicon de la página, logrando así una aplicación más adaptada y con identidad propia.
 
-Para correr el programa debe de ejecutar el siguiente comando en la terminal 'npm run dev'
+ Instalación y ejecución
+
+Sigue estos pasos para clonar el repositorio y ejecutar el proyecto en tu máquina local:
+
+Clonar el repositorio
+
+   bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+   cd tu-repositorio
+
+Para correr el programa debe de ejecutar el siguiente comando en la terminal 'npm install' y luego 'npm run dev'
 
 
 # React + Vite
